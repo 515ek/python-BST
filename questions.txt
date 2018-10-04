@@ -1,0 +1,8 @@
+1. Design a BST class with methods to add element, search element, number of elements and delete requested element. Provide test cases.
+2. Add methods to in-order, pre-order, post-order and level-order traversals
+3. Add methods to display the traversal in ascending and descending order.
+4. Add method to find the height of binary search tree. Provide test cases.
+5. Add method to count the number of terminal nodes in BST. Provide test cases.
+6. Add methods to find max and min element in BST. Provide test cases.
+8. Add method to count number of nodes in the left sub tree and number of nodes in right sub tree. Provide test cases.
+9. Add method the check whether two BSTs are same. Provide test cases.
